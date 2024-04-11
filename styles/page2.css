@@ -1,0 +1,50 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 3px;
+  overflow: hidden;
+  background-color: cornflowerblue;
+  border: solid black;
+}
+
+li {
+  float: left;
+  border-right: 2px solid black;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: coral;
+}
+
+.active {
+  background-color: yellow;
+}
+
+body {
+  background-color: black;
+}
+
+.image-container img{
+  border: 3px solid white;
+}
+
+h2{
+  color: blueviolet;
+  text-align: center;
+  font-family: "Tac One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}

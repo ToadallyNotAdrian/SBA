@@ -31,3 +31,36 @@ li a:hover:not(.active) {
 .active {
     background-color: yellow;
 }
+.container {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.boxes {
+    border: 3px solid black;
+    width: 50px;
+    height: auto;
+    text-align: center;
+    font-size: 25px;
+}
+
+#box1 {
+    background-color:rebeccapurple;
+    width: 30%;
+}
+
+#box2 {
+    background-color: yellow;
+    margin-left: auto;
+    width: 30%;
+}
+
+#box3 {
+    background-color: rebeccapurple;
+    margin-left: auto; 
+    width: 30%;
+}
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7w108PeOyIAjJBlEJ4hL4AshvzloYB9Hg4A&s);
+}
