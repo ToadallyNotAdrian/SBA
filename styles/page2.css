@@ -33,7 +33,7 @@ li a:hover:not(.active) {
 }
 
 body {
-  background-color: black;
+  background-color: cornflowerblue;
 }
 
 .image-container img{
@@ -47,4 +47,25 @@ h2{
   font-weight: 400;
   font-style: normal;
   font-size: 50px;
+}
+
+table {
+  width: 200px;
+  height: 300px;
+  text-align: center;
+  border: 5px solid Black;
+  margin: auto;
+}
+
+th, td {
+  border:3px solid blueviolet;
+}
+
+td:hover {
+  background-color: coral;
+  color: greenyellow;
+}
+
+th {
+  text-align: center;
 }
