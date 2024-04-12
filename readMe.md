@@ -10,3 +10,5 @@ struggled with timing and remembering the order of things.
 
  next time will plan better and try not to let personal matters delay my working process
  cant wait to create more 
+  lol i need that 10th commit
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pharetra, purus ut consequat tempor.
