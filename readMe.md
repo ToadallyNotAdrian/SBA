@@ -4,3 +4,6 @@ Hunny dip is My friends brand in where we try to psuh skateboarding and the use 
 HTML and CSS used to complete this project 
 
 had fun being creative with the web and the structure
+
+struggled with timing and remembering the order of things.
+ also its hard to differentiate with way i should go when wanting to include boxes,divs, and images and how yo seperate them.
